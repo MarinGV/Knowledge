@@ -13,4 +13,4 @@ For more information, you can go and check directly the official page **[Markdow
 
 
 
-[1]:(https://www.markdownguide.org/)
+[1]:https://www.markdownguide.org/
