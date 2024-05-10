@@ -5,10 +5,9 @@ This project has been create for the purpose of keeping track of what I have lea
 This is a personal project written in a way that is easiest for me to understand. Whoever wishes touse it for their own personal use, is free to do so.
 
 # Contents
-- Markdown
+- [Markdown](#markdown)
 
-
-# Markdown
+# [Markdown](./Markdown/README.md)
 
 A collection of commands to use markdown and **Best Practices** to take note of.
 
