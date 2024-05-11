@@ -7,7 +7,8 @@ This is a personal project written in a way that is easiest for me to understand
 # Contents
 - [Markdown](#markdown)
 
-# [Markdown](./Markdown/README.md)
+# [Markdown][Markdown]
 
 A collection of commands to use markdown and **Best Practices** to take note of.
 
+[Markdown]:./Markdown/README.md
